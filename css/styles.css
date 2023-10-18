@@ -1,0 +1,39 @@
+.everything {
+  background-color: aqua;
+}
+
+.pet1 {
+  background-color: rgb(1, 34, 43);
+  float: right;
+  width: 50%;
+
+
+
+
+}
+
+.pet2 {
+  background-color: rgb(166, 255, 0);
+  float: right;
+  width: 50%;
+
+
+
+}
+
+.pet3 {
+  background-color: rgb(43, 1, 22);
+  float: left;
+  width: 50%;
+
+
+
+}
+
+.pet4 {
+  background-color: rgb(43, 1, 1);
+  float: left;
+  width: 50%;
+
+
+}
